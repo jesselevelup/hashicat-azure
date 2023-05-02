@@ -14,7 +14,9 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to jesselevelup's app. Replace this text with your own. 
+  Welcome to ${PREFIX}'s hashicat app!<br>
+    What’s the best medicine for cat allergies?<br> 
+    An anti-hisstamine <br>
   <!-- END -->
   
   </div>
